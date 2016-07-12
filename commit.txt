@@ -1,0 +1,17 @@
+commit 966cbd4bf019dec2c1a6b02e8e9f6c5ff9213f05
+Author: eldroidrazor <galactico555.avc@gmail.com>
+Date:   Mon Jul 11 22:57:07 2016 -0500
+
+    informe completo
+
+commit 837345f671f5c8aa20e773bfff8ea9f509637c63
+Author: eldroidrazor <galactico555.avc@gmail.com>
+Date:   Mon Jul 11 22:10:15 2016 -0500
+
+    agregamos graficos
+
+commit 5975b9acc602db1f44e570e4dbf82f224b76935e
+Author: eldroidrazor <galactico555.avc@gmail.com>
+Date:   Mon Jul 11 22:00:05 2016 -0500
+
+    cambios
